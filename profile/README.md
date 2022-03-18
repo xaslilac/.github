@@ -1,4 +1,4 @@
-![banner image](./BANNER.jpeg)
+![banner image](BANNER.jpeg)
 
 # Hey friend 😌
 
