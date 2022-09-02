@@ -1,4 +1,4 @@
-![banner image](/profile/BANNER.webp)
+![banner image](https://cdn.mckayla.cloud/-/e5468905fe3f4dc7be07245d79eda280/BANNER.webp)
 
 # Hey friend 😌
 
